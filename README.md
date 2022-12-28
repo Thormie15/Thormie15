@@ -8,13 +8,10 @@
 - You can contact me at tomideakinboyewa@gmail.com 🖥️
 
 # Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind,react,vue)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind,bootstrap,react,vue)](https://skills.thijs.gg)
 
 # Socials
-
-<a href="https://twitter.com/justthormie">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Twitter_logo-128.png"/>
-</a>
+[![My Skills](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/justthormie)
 
 
 # My Github Stat
