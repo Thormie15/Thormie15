@@ -14,7 +14,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/justthormie)
 [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Thormie15)
 
-# My Github Stat
+# My Github Stats
 
 ![Thormie15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thormie15&show_icons=true&theme=radical)
 
